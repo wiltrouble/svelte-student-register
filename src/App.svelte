@@ -235,7 +235,6 @@
 						<li class="list-group-item">
 							<div class="card-body">
 								<div class="d-flex justify-content-between">
-						
 									<h5 class="card-title">{student.name}</h5>
 									<button on:click={editStudent(student)} class="btn btn-info">
 										<i class="material-icons" style="vertical-align:middle">edit</i>
